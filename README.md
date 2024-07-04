@@ -1,11 +1,12 @@
 # Yandex-Practicum Data Science projects
+![Image](https://avatars.dzeninfra.ru/get-zen_brief/6354854/pub_62a8f434976862692a3244a4_62a8f5ab82cf817bc972fba8/scale_2400)
 
 [Certificate of course completion (English language version)](https://github.com/k4danilov/YP_projects/blob/main/Yandex_practicum_certificate_DS_(En).pdf)\
 [Certificate of course completion (Russian language version)](https://github.com/k4danilov/YP_projects/blob/main/Yandex_practicum_certificate_DS_(Ru).pdf)
 
 <br>
 
-`Репозиторий содержит набор учебных проектов, выполненных в рамках курса Data Science в Яндекс Практикуме. Каждый проект направлен на развитие различных навыков и компетенций в области анализа данных, машинного обучения и обработки данных. Включенные проекты охватывают широкий спектр задач и методологий, что позволяет углубить знания и практические навыки в Data Science.`
+>Репозиторий содержит набор учебных проектов, выполненных в рамках курса Data Science в Яндекс Практикуме. Каждый проект направлен на развитие различных навыков и компетенций в области анализа данных, машинного обучения и обработки данных. Включенные проекты охватывают широкий спектр задач и методологий, что позволяет углубить знания и практические навыки в Data Science.
 
 <br>
 
